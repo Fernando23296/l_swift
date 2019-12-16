@@ -18,5 +18,9 @@ let maxValueint32 = UInt32.max
 let minValueint64 = UInt64.min
 let maxValueint64 = UInt64.max
 
-//para guardar una edad
+// FLOTANTE
+//un flotante tiene 6 cifras de decimales, si hay mas la redondea
+let f1: Float = 3.14159265
+// un doble abarca mas
+let f2: Double = 3.14159265
 
