@@ -59,7 +59,7 @@ let piNumber = Double(three) + decimalNumber
 // se redondea:
 let redondeado = Int(piNumber)
 
-// alias 
+// alias
 typealias AudioSample = UInt16
 var maxAmplitud = AudioSample.max
 
